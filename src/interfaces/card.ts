@@ -36,6 +36,7 @@ export interface Card {
     flavorText?: string;
     nationalPokedexNumbers?: number[];
     legalities: ILegality;
+    regulationMark?: string;
     images: CardImage;
     tcgplayer?: TCGPlayer;
 }
