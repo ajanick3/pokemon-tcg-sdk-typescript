@@ -1,6 +1,8 @@
 export enum Rarity {
+    AceSpecRare = 'ACE SPEC Rare',
     AmazingRare = 'Amazing Rare',
     Common = 'Common',
+    HyperRare = 'Hyper Rare',
     Legend = 'LEGEND',
     Promo = 'Promo',
     Rare = 'Rare',
